@@ -4,7 +4,7 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "layer0 deploy",
+    "layer0:deploy": "layer0 deploy",
     "server": "hexo server"
   },
   "hexo": {
